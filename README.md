@@ -1,2 +1,2 @@
 # hello-world
-this is he first change !
+this is the first change !
